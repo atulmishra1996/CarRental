@@ -1,5 +1,9 @@
+/Users/atulmishra/work/CarRental/CarsRental/src/main/java/com/example/CarRentals/Models/Request/SignUpRequest.java
+/Users/atulmishra/work/CarRental/CarsRental/src/main/java/com/example/CarRentals/Config/SeurityConfig.java
+/Users/atulmishra/work/CarRental/CarsRental/src/main/java/com/example/CarRentals/Models/Request/LoginRequest.java
 /Users/atulmishra/work/CarRental/CarsRental/src/main/java/com/example/CarRentals/Repositories/UserRepository.java
 /Users/atulmishra/work/CarRental/CarsRental/src/main/java/com/example/CarRentals/Controllers/UserController.java
+/Users/atulmishra/work/CarRental/CarsRental/src/main/java/com/example/CarRentals/Config/SwaggerConfig.java
 /Users/atulmishra/work/CarRental/CarsRental/src/main/java/com/example/CarRentals/CarsRental.java
 /Users/atulmishra/work/CarRental/CarsRental/src/main/java/com/example/CarRentals/Models/Database/User.java
 /Users/atulmishra/work/CarRental/CarsRental/src/main/java/com/example/CarRentals/Services/UserService.java

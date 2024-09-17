@@ -1,5 +1,9 @@
+com/example/CarRentals/Models/Request/LoginRequest.class
+com/example/CarRentals/Controllers/UserController.class
+com/example/CarRentals/Repositories/UserRepository.class
+com/example/CarRentals/Config/SwaggerConfig.class
 com/example/CarRentals/Models/Database/User.class
 com/example/CarRentals/CarsRental.class
 com/example/CarRentals/Services/UserService.class
-com/example/CarRentals/Controllers/UserController.class
-com/example/CarRentals/Repositories/UserRepository.class
+com/example/CarRentals/Models/Request/SignUpRequest.class
+com/example/CarRentals/Config/SeurityConfig.class
